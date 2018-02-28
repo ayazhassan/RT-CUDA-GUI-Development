@@ -1,0 +1,2 @@
+KERNEL_FILES=kernel1.c,kernel2.c
+CONFIG_FILES=config1.txt,config2.txt
