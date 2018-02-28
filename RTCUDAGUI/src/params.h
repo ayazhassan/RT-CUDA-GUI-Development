@@ -1,0 +1,3 @@
+#define BLOCKSIZE 32
+#define MERGE_LEVEL 8
+#define SKEW_LEVEL 32

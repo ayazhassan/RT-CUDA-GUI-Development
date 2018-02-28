@@ -1,0 +1,2 @@
+nvcc -c -Xptxas -v -gencode arch=compute_20,code=sm_20
+nvcc -gencode arch=compute_20,code=sm_20
